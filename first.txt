@@ -2,3 +2,5 @@ gitの練習をしていくよ。
 基本的なワークフローを学ぶよ！
 ・git add
 ・git commit
+・git rm
+・git status
